@@ -1,1 +1,65 @@
-/* Write your CSS here! */
+.photo-box {
+    margin-top: 30px;
+    margin-right: 500px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+
+.photo-credit {
+    color: gray;
+    font-size: 10px;
+}
+
+.photo-caption {
+    font-style:italic;
+}
+
+#header {
+    padding-left: 20px;
+    padding-right: 200px;
+    font-family: georgia;
+}
+
+p {
+    font-family: verdana;
+    
+}
+
+.story-text {
+    padding-left: 50px;
+    padding-right: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#footer {
+    font-family: georgia;
+    padding-left: 20px;
+    padding-right: 20 px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 90px;
+    margin-right: 600px;
+    color: darkred;
+    border-style: dashed;
+    border-color: green;
+}
+
+#footer-link{
+    color: blueviolet;
+}
+
+
+
+body {
+    margin: 8px 8px 8px 8px;
+    display: block;
+} 
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
